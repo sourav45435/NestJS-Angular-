@@ -1,0 +1,8 @@
+{
+  "name": "Remix CloudPlatform Staging \u0026 DevOps Workbench",
+  "description": "Production staging environment and feature workbench for NestJS, PostgreSQL, real-time WebSocket dashboard, profile management, and AWS ECS/RDS CI/CD pipeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
